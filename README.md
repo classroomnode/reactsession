@@ -27,8 +27,11 @@
 ## Envrionment Setup
 1) npx create-react-app {appname}
 2) Walk through of project files
+3) npm start
 3) setup lint install eslint as "dev dependency" `npm install eslint --save-dev`
+   go through lint setup eslint --init
 4) setup prettier `npm install prettier --save-dev`
+5) Sample component to display hello world
 
 ## Linting and Prettier
 * Install Prettier and Eslint extesions in VSCode
@@ -36,3 +39,5 @@
 
 
 ## React application
+
+2) Create a todo app which fetches todos of a user and lists in user
