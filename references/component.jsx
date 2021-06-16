@@ -1,7 +1,11 @@
-import React from "react"
+import React,{useEffect} from "react"
 
 function HelloWorld()
 {
+    useEffect(()=>{
+        console.log("asdasd")
+    },[])
+
     return <div>{"asd"}</div>
 }
 
