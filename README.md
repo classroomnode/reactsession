@@ -25,7 +25,6 @@
 2) Vs Code Editor
 
 ## Envrionment Setup
-cd tryout
 1) npx create-react-app {appname}
 2) Walk through of project files
 3) setup lint install eslint as "dev dependency" `npm install eslint --save-dev`
