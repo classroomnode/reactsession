@@ -36,7 +36,15 @@
 * Check(in VSCode) that the extension pick up the config files `.eslintrc.json` and `.prettierrc`,refer references folder you may have to open VSCode in the correct folder.
 
 
-## React application
+## Architecure
+
+### Application Diagram
+
+<p align="center">
+<img src="architecture.png"/>
+</p>
+
+### React application
 
 1) Create a todo app which fetches todos of a user and lists in user
 2) Create a todo list component
