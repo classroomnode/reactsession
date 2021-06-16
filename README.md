@@ -40,4 +40,8 @@
 
 ## React application
 
-2) Create a todo app which fetches todos of a user and lists in user
+1) Create a todo app which fetches todos of a user and lists in user
+2) Create a todo list component
+3) Create a service layer to fetch the todos
+4) Bind the todos to the component
+5) Create a todo template to present the data
