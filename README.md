@@ -2,14 +2,12 @@
 ## Agenda
 
 1. Intro - 10 min
-2. Break out 1: Setup your environment - 15 min
-   - Use [these](./BreakOut1/WorkFolder/instructions.md) instructions
+2. Break out 1: Setup your environment 15 min
 3. Retro - 5 min
-4. Concepts walktrough - 20 min
+4. Concepts  - 20 min
 5. Break out 2: React fundamentals - 40 min
-   - Use [these](./BreakOut2/WorkFolder/instructions.md) instructions
 6. Retro - 10 min
-7. Wrap up - 10min
+7. Wrap up
 
 
 # Agenda
@@ -35,7 +33,7 @@
 
 ## Linting and Prettier
 * Install Prettier and Eslint extesions in VSCode
-* Check(in VSCode) that the extension pick up the config files `.eslintrc.json` and `.prettierrc`, you may have to open VSCode in the correct folder.
+* Check(in VSCode) that the extension pick up the config files `.eslintrc.json` and `.prettierrc`,refer references folder you may have to open VSCode in the correct folder.
 
 
 ## React application
