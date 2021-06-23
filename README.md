@@ -51,3 +51,14 @@
 3) Create a service layer to fetch the todos
 4) Bind the todos to the component
 5) Create a todo template to present the data
+
+
+### Deploy application
+
+1) Create a deploy folder in todoapp
+2) run npm run build
+3) copy build to deploy
+4) cd deploy folder
+5) gcloud auth login
+6) gcloud config set project project name
+7) glcoud app deploy app.yaml
