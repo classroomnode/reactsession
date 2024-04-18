@@ -22,16 +22,12 @@
 1) Node JS
 2) Vs Code Editor
 
-## Envrionment Setup
+## Front end Envrionment Setup
 1) npx create-react-app {appname}
 2) Walk through of project files
 3) npm start
-3) setup lint install eslint as "dev dependency" `npm install eslint --save-dev`
-   go through lint setup eslint --init
-4) setup prettier `npm install prettier --save-dev`
-5) Sample component to display hello world
 
-## Linting and Prettier
+## Code formatter
 * Install Prettier and Eslint extesions in VSCode
 * Check(in VSCode) that the extension pick up the config files `.eslintrc.json` and `.prettierrc`,refer references folder you may have to open VSCode in the correct folder.
 
@@ -46,19 +42,17 @@
 
 ### React application
 
-1) Create a todo app which fetches todos of a user and lists in user
-2) Create a todo list component
-3) Create a service layer to fetch the todos
-4) Bind the todos to the component
-5) Create a todo template to present the data
+1) Create a balance app which creates a balance event
+2) Create a add balance view
+3) Create a service layer to fetch the balances
+4) Create a balance list component
+
+### Backend API
+1) Create a nodeJs backend based on express
+2) Create a controller - Create balance, Get Balance
+3) Creates a database instance with postgress
 
 
 ### Deploy application
 
-1) Create a deploy folder in todoapp
-2) run npm run build
-3) copy build to deploy
-4) cd deploy folder
-5) gcloud auth login
-6) gcloud config set project project name
-7) glcoud app deploy app.yaml
+1) Deploy frontend and backend in cloud
